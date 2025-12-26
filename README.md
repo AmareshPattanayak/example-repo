@@ -1,2 +1,4 @@
 # Example Repo
-This is a sample repo guys!!
+This is a sample git repo guys!!
+
+Happy learning
